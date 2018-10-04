@@ -41,7 +41,7 @@
 		17F1687A2153860E00EE1A9F = {
 			isa = PBXGroup;
 			children = (
-				17F168852153860E00EE1A9F /* test */,
+				17F168852153860E00EE1A9F /* Today_Topic */,
 				17F168842153860E00EE1A9F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		17F168852153860E00EE1A9F /* test */ = {
+		17F168852153860E00EE1A9F /* Today_Topic */ = {
 			isa = PBXGroup;
 			children = (
 				17F168862153860E00EE1A9F /* main.cpp */,
 			);
-			path = test;
+			path = Today_Topic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
